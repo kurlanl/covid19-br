@@ -96,3 +96,5 @@ você pode propor uma mudança nesse arquivo diretamente pelo botão "editar". :
 - https://youtu.be/aA9q1Zk0AeU
 - https://www.tableau.com/pt-br/learn/webinars/projeto-brasilio-covid19-dados-publicos-acessiveis
 - [2o Datosy y Coronavirus](https://www.youtube.com/watch?v=C5qXnE6AlMY) ([veja os slides](http://bit.ly/socialtic-brasilio-covid19))
+- https://kurlanl.carto.com/builder/6f57c974-a20f-4dd9-a6db-b0a786b45601/embed
+- https://kurlanl.carto.com/builder/327bd0a0-c100-420f-9e7e-89cafd245997/embed
